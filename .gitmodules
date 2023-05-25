@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "faersquarterlydata"]
+	path = faersquarterlydata
+	url = https://github.com/cran/faersquarterlydata
+	shallow = true
+	registered = true
 [submodule "long2lstmarray"]
 	path = long2lstmarray
 	url = https://github.com/luisgarcez11/long2lstmarray
