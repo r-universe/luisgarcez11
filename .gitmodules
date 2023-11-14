@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "faersquarterlydata"]
 	path = faersquarterlydata
-	url = https://github.com/cran/faersquarterlydata
+	url = https://github.com/luisgarcez11/faersquarterlydata
 [submodule "long2lstmarray"]
 	path = long2lstmarray
 	url = https://github.com/luisgarcez11/long2lstmarray
