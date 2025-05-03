@@ -11,3 +11,6 @@
 [submodule "qualitycontrol"]
 	path = qualitycontrol
 	url = https://github.com/luisgarcez11/qualitycontrol
+[submodule "tradeoffaucdim"]
+	path = tradeoffaucdim
+	url = https://github.com/luisgarcez11/tradeoffaucdim
